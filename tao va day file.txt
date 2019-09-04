@@ -1,0 +1,6 @@
+echo "# new-project1" >> README.md (tao file)
+git init (khoi tao)
+git add README.md(them readme.md)
+git commit -m "first commit" (ghi nho thay doi lan 1)
+git remote add origin https://github.com/luanhoang29793/new-project1.git (dieu khien may chu)
+git push -u origin master (dua len may chu)
